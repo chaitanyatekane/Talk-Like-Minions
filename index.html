@@ -17,21 +17,19 @@
 
     <main>
         <section class="input">
-            <h2 class="output__text">Original Input</h2>
             <form id="minion-form">
                 <div class="form-group">
-                    <label for="input-text">Your Language Input</label>
-                    <textarea name="input_text" id="input-text" cols="30" rows="10" placeholder="put your message here which you want to convert to banana language"></textarea>
+                    <h2>Your Language Input 👇</h2>
+                    <textarea name="input_text" id="input-text" cols="30" rows="10" placeholder="put your message here which you want to convert to banana language" required></textarea>
                 </div>
                 <div class="form-group">
-                    <button type="submit">Translate Language</button>
+                    <button id="translateBtn" type="submit">Translate Language</button>
                 </div>
             </form>
         </section>
         <section class="output">
-            <h2 class="output__text">Translation will come here 👇</>
-            <div class="output__translation" id="minion-output">
-                Banana Output
+            <h2 class="output__text">Translated output is shown below 👇</>
+            <div class="output__translation" id="minion-output">Here's Your Output
             </div>
         </section>
     </main>
@@ -40,5 +38,6 @@
         <h2>About</h2>
         <p>Are you a fan of minion? Did you know that the gibberish they say is an actual language. Use the translator to convert your text from English to Minion speak or Banana language.</p>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>
