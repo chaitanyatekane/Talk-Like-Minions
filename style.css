@@ -17,6 +17,10 @@ textarea, button {
     font-family: inherit;
 }
 
+textarea {
+    font-size: 15px;
+}
+
 header, 
 button, 
 footer {
@@ -56,21 +60,26 @@ main section {
     border: none;
     padding: 1rem 2rem;
     font-weight: 600;
-    margin-top: 30px;
+    margin-top: 5px;
     text-transform: uppercase;
     width: max-content;
     cursor: pointer;
+}
+
+.form-group button[type="submit"]:hover {
+    background-color: #f3ef09;
+    color: black;
 }
 
 #minion-output {
     border: 1px solid hsla(0, 0%, 0%, 0.2);
     overflow: auto;
     padding: 0.625rem;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 footer {
-    margin-top: 90px;
+    margin-top: 49px;
 }
 
 @media screen and (min-width: 768px) {
