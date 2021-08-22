@@ -1,13 +1,13 @@
 ## About The Project
 
 
-[Talk-Like-Minions]() is a fun translation web app to convert english to banana language. Are you a fan of minion? Did you know that the gibberish they say is an actual language. 
+[Talk-Like-Minions](https://talkin-minions.netlify.app/) is a fun translation web app to convert english to banana language. Are you a fan of minion? Did you know that the gibberish they say is an actual language. 
 <br>Use this fun translator web app to play with your friends. This web app is hosted using [Netlify](https://www.netlify.com/).
 
 ## Live Demo
 
 
-[Click To Preview]()
+[Click To Preview](https://talkin-minions.netlify.app/)
 
 ## Built With
 
