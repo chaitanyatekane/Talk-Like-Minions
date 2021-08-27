@@ -37,7 +37,7 @@ NOTE: Make sure to merge the latest from "upstream" before making a pull request
 
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Netlify](https://www.netlify.com/)
 - [Google Font - Klee One](https://fonts.google.com/specimen/Klee+One?query=klee)
 - [Minion Translator API](https://funtranslations.com/api/minion)
